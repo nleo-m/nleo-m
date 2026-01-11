@@ -7,5 +7,6 @@ I'm also learning Rust in my free time.
   
 I'm a creative person, passionate about tech and always eager to learn.  
 On a more personal note, I am a proud father, artist, tattooer, gamedev and writer wannabe.  
-   
-You can reach me on [linkedin](https://www.linkedin.com/in/leonel-marcos-f5/) or [email](mailto:mfjleonel@gmail.com)
+  
+You can check out my [portfolio](https://mfjleonel.vercel.app/) and [all my links](https://linktr.ee/leonel_m).  
+I'm open to discuss new oportunities, reach me on [linkedin](https://www.linkedin.com/in/leonel-marcos-f5/) or [email](mailto:mfjleonel@gmail.com)
